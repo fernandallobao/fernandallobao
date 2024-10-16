@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
   <div style="display: inline_block">
   <a href="https://github.com/fernandallobao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianolpsf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>      
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandallobao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>      
   <a href="https://github.com/fernandallobao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianolpsf&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula"/></a>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandallobao&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula"/></a>  
 </div>
