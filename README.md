@@ -12,7 +12,10 @@ You can click the Preview link to take a look at your changes.
     <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="javascript" height="34" width="34" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/Javascript.png">
     <img align="center" alt="bootstrap" height="40" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/Bootstrap.png">
+    <img align="center" alt="java" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
     <img align="center" alt="pyton" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+    <img align="center" alt="jupyter" height="40" width="40" src="https://github.com/datalayer/icons/blob/main/svg/data1/jupyter-name.svg">
+    <img align="center" alt="vscode" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
     <img align="center" alt="git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="github" height="40" width="40" src="https://img.icons8.com/?size=512&id=bVGqATNwfhYq&format=png">
     <img align="center" alt="trello" height="40" width="40" src="https://img.icons8.com/?size=512&id=21049&format=png">
