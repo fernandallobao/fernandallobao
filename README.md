@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fernandallobao
-- 👀 I’m interested in the whole area of IT at the moment, because I'm still a "child here" and I have a universe to explore! .
-- 🌱 I’m currently learning Front-end, but the sky is the limit .
+- 🌱 I’m currently studying Python for data analysis and AI, but the sky is the limit .
 - 📫 How to reach me fernandafcclobao@gmail.com
 
 <!---
@@ -8,37 +7,21 @@ fernandallobao/fernandallobao is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<br>
-
-Pessoal que veio atrás do respositorio do youtube, você encontrará os scripts usados [AQUI](https://github.com/Lucianolpsf/youtube_projects)
-
 <div style="display: inline_block"><br>
     <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="javascript" height="34" width="34" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/Javascript.png">
     <img align="center" alt="bootstrap" height="40" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/Bootstrap.png">
-    <img align="center" alt="mysql" height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="mariaDB" height="40" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/MariaDB.png">
-    <img align="center" alt="sql server" height="40" width="40" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/SQL%20Server.png">
-    <img align="center" alt="linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="github" height="40" width="40" src="https://img.icons8.com/?size=512&id=bVGqATNwfhYq&format=png">
     <img align="center" alt="trello" height="40" width="40" src="https://img.icons8.com/?size=512&id=21049&format=png">
 </div>
 
-#
-
 <div style="display: inline_block">
-    <a href="https://lucianolpsf.github.io/portfolio/" target="_blank">
+    <a href="https://github.com/fernandallobao" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=superuser&logoColor=white" target="_blank"/><a/>
-    <a href="https://www.linkedin.com/in/lucianolpsf/" target="_blank">
+    <a href=" " target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/><a/>
-    <a href="https://www.youtube.com/@pobre.vencedor?sub_confirmation=1" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/><a/>
-    <a href="https://facebook.com/lucianolpsf" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"/><a/>
-    <a href="https://instagram.com/lucianolpsf" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/><a/>
 </div>
 <br>
 <div align="center">
